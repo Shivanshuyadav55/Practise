@@ -1,5 +1,5 @@
 push to remote
 creating first line fop remote adding 
-line edit by featurebranch
+the new line of remote
 feature brach edit
 Some new changes from remote
